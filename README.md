@@ -50,6 +50,8 @@ OVŌM care aims to create a technology-enabled future in reproductive care. For 
 
 For the sake of simplicity we are going to simulate an EHR dataset based on blood tests from patients. In this case we will have:
 
+* **7k Patients**
+* **70K blood test records** 
 
 1. **Log data**: An event dataset where the patients are taking blood tests. This set contains the fields:
 For the .md I will copy it from the website 
